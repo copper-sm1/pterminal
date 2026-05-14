@@ -1,2 +1,2 @@
 # pterminal
-vibe
+vibe coding test
